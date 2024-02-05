@@ -10,7 +10,7 @@ Before you begin, ensure you have:
 
 ## Creating Your Dataset
 
-1. **Prepare Your Images**: The example dataset consisted of `.jpg` images and their segmentation masks, '.png' binary images with pixels in the labeled regions set to '1'. Images and corresponding masks were saved under the same name in separate folders.
+1. **Prepare Your Images**: The example dataset consisted of `.jpg` images and their segmentation masks, `.png` binary images with pixels in the labeled regions set to '1'. Images and corresponding masks were saved under the same name in separate folders.
 
 3. **Helpful Notebooks for Mask Creation**:
    - KMeans Segmentation for Binary Mask Creation: [Notebook Link](https://github.com/jacquelinegrimm/kmeans-segmentation/blob/main/arabidopsis_root_segmentation_kmeans.ipynb)

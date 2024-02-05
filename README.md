@@ -13,9 +13,9 @@ Before you begin, ensure you have:
 1. **Prepare Your Images**: The example dataset consisted of `.jpg` images and their segmentation masks, `.png` binary images with pixels in the labeled regions set to '1'. Images and corresponding masks were saved under the same name in separate folders.
 
 3. **Helpful Notebooks for Mask Creation**:
-   - KMeans Segmentation for Binary Mask Creation: [Notebook Link](https://github.com/jacquelinegrimm/kmeans-segmentation/blob/main/arabidopsis_root_segmentation_kmeans.ipynb)
-   - Convert to Binary Mask: [Notebook Link](https://github.com/jacquelinegrimm/useful-scripts/blob/main/convert_to_binary.ipynb)
-   These notebooks can assist in generating the binary masks required for your dataset.
+   - K-Means Segmentation for Creating Binary Masks: [Notebook](https://github.com/jacquelinegrimm/kmeans-segmentation/blob/main/arabidopsis_root_segmentation_kmeans.ipynb)
+   - Convert to Binary Mask: [Notebook](https://github.com/jacquelinegrimm/useful-scripts/blob/main/convert_to_binary.ipynb)
+   These notebooks can assist in generating the masks required for your dataset.
 
 4. **Upload to Google Drive**: Once your dataset is prepared, upload the images and masks to Google Drive.
 

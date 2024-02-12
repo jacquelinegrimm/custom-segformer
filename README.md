@@ -29,4 +29,4 @@ Before you begin, ensure you have:
 
 2. **Model and Fine-tuning Resources**:
    - SegFormer Model: [nvidia/mit-b0](https://huggingface.co/nvidia/mit-b0)
-   - Example Fine-tuned Model: [segformer-b0-finetuned-arabidopsis-roots-v03](https://huggingface.co/jacquelinegrimm/segformer-b0-finetuned-arabidopsis-roots-v03)
+   - Example Fine-tuned Model: [segformer-b0-finetuned-arabidopsis-roots-v02](https://huggingface.co/jacquelinegrimm/segformer-b0-finetuned-arabidopsis-roots-v02)

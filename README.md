@@ -21,7 +21,9 @@ Before you begin, ensure you have:
 
 1. **hf_custom_dataset.ipynb**: Use the provided Colab notebook `hf_custom_dataset.ipynb` to create a custom dataset and push it to Hugging Face Hub.
 
-2. **Create an `id2label.json` File**: After pushing your dataset to Hugging Face, you'll need to create an `id2label.json` file that maps your dataset's labels to their respective IDs. Upload this file to your dataset's repository on Hugging Face. An example `id2label.json` is available in this repo for reference.
+2. **segments_to_hf.ipynb**: Alternately, if using Segments.ai for data labeling, use this notebook to create a dataset release and push it to Hugging Face.
+
+3. **Create an `id2label.json` File**: After pushing your dataset to Hugging Face, you'll need to create an `id2label.json` file that maps your dataset's labels to their respective IDs. Upload this file to your dataset's repository on Hugging Face. An example `id2label.json` is available in this repo for reference.
 
 ## Fine-tuning the SegFormer Model
 

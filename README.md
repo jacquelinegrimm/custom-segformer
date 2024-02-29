@@ -27,7 +27,7 @@ Before you begin, ensure you have:
 
 ## Fine-tuning the SegFormer Model
 
-1. **finetune_segformer_model.ipynb**: This notebook guides you through the process of fine-tuning a SegFormer model and pushing it to Hugging Face Hub. This example shows second-stage fine-tuning of a model for segmentation of plant root images. To start instead from the original pre-trained model, replace the model name in the code with `"nvidia/mit-b0"`.
+1. **finetune_segformer_model.ipynb**: This notebook guides you through the process of fine-tuning a SegFormer model and pushing it to Hugging Face Hub.
 
 2. **Model and Fine-tuning Resources**:
    - SegFormer Model: [nvidia/mit-b0](https://huggingface.co/nvidia/mit-b0)
